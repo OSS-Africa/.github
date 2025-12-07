@@ -21,7 +21,7 @@ We welcome everyone who shares our passion for open source and security. Here's 
 - **Connect** - Join our community discussions and events on [Discord](https://discord.gg/xKaFkRGvxq)
 - **Share** - Help spread awareness about open source and security in Africa
 - **Meeting Minutes** - Stay informed about what’s happening through our open meeting [notes.](https://docs.google.com/document/d/1HFxCZpwlzxlOwIMHxh6M4I9PM34WRqdIGhXO6EYEr_c/edit?usp=sharing)
-- **Meeting Calender** - Add our calendar to stay updated on our activities [here.]()
+- **Meeting Calender** - (TBD)
 
 ## License
 
