@@ -38,6 +38,7 @@ If you need help or have questions:
 
 - Open a discussion in the repository
 - Reach out to the maintainers
+- Create an issue in the intended repository
 
 ## Recognition
 
